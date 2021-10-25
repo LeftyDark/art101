@@ -1,3 +1,22 @@
+h1 {
+  font-family: "georgia"
+}
+
+h2 {
+  font-family: "georgia"
+}
+div {
+  font-family: "garamond";
+  text-align: center;
+}
 p {
-  color: red;
+  font-family: "garamond";
+  color: #c72705;
+}
+
+#content {
+  background-color: #d2b48c;
+  margin: 10px;
+  padding: 5px;
+  border: solid 2px black;
 }
