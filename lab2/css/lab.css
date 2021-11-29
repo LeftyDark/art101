@@ -1,3 +1,21 @@
+h1 {
+  color: blue;
+  font-size: 210%;
+
+}
+
 p {
-  color: red;
+  font-family: fantasy;
+  text-indent: 30px;
+  margin-left: 15px;
+}
+
+#content {
+  background-color: grey;
+  width: 450px;
+  min-height: 350px;
+  padding: 10px;
+  margin: 10px;
+  border: solid 1px #69c3cf;
+  font-size: 20px;
 }
