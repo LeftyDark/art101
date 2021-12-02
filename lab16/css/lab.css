@@ -1,0 +1,23 @@
+h1 {
+  font-family: "helvetica";
+}
+
+h2 {
+  font-family: "helvetica";
+}
+div {
+  font-size: 20px;
+  font-family: sans-serif;
+  text-align: center;
+}
+p {
+  font-size: 15px;
+  color: black;
+}
+
+#content {
+  background-color: gray;
+  margin: 10px;
+  padding: 5px;
+  border: solid 2px black;
+}
